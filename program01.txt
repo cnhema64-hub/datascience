@@ -1,0 +1,7 @@
+a=int(input('enter the number"))
+if a>10
+ print("low")
+ elif 10< a <=20
+   print("medium")
+else
+   print("high") 
