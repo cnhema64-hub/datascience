@@ -1,0 +1,33 @@
+DBMS
+A database along with software which is used to manage the database is called database management system.
+-file format
+
+RDBMS
+Any database which is developed based on relational theories which is used to manage the database is called relational database management system.
+-table format
+
+
+SQL
+
+SQL stands for Structured Query Language which is pronounce as SEQUEL.
+This language is used to communicate with oracle database.
+It is a command based language.
+It is a case insensitive language.
+Every command must starts with verb.  select * from emp;
+ex:	select, update, delete, drop and etc.
+Every command must ends with semicolon.
+It is developed by Mr.Codd in 1972.
+
+
+Sub language in SQL
+We have five sub-language of SQL.
+
+1) DDL (Data Definition Language)
+
+2) DML (Data Manipulation Language)
+
+3) DRL/DQL (Data Retrieve/Query Language) 
+
+4) TCL (Transaction Control Language)
+
+5) DCL  (Data Control Language)

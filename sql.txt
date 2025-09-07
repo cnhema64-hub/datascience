@@ -1,0 +1,40 @@
+WHAT IS Oracle
+
+Oracle is one of the database which is used to store structured data.
+
+Oracle is a product of Oracle Corporation.
+
+Oracle is a case insensitive language.
+
+Oracle is classified into two types.
+
+				Oracle 
+				|
+	-------------------------------------------------------------------------
+	|						|				
+	SQL						PL/SQL
+ (Structured Query Language)			(Procedural/Structured Query Language)
+      Develop by IBM					Develop by Oracle Corporation
+ Communication Channel
+
+
+It acts like a bridge between frontend and backend
+ex:	JDBC - Java Database Connectivity 
+	ODBC - Open Database Connectivity
+	PDBC - Python Database Connectivity and etc
+
+
+Management System
+
+Management system is a software which is used to manage the database.
+
+Management system will perform following activities very easily.
+
+1) Inserting new data 
+
+2) Modifying existing data 
+
+3) Deleting unnecessary data 
+
+4) Selecting required data
+
